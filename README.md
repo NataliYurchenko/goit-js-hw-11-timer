@@ -1,1 +1,1 @@
-# goit-js-hw-11-timer1
+# goit-js-hw-11-timer
